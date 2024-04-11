@@ -16,4 +16,5 @@ body{
   /* 이미지 글자요소 중앙정렬 안됨 */
   /* 장자요소로 전환해서 처리 */
   display: block;
+  margin-bottom: 40px;
 }
